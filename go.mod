@@ -1,1 +1,1 @@
-module lets-write-a-compiler
+module monkey-interpreter
